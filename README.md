@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mychail
+- 👋 Hi, I’m Chukwujekwu
 - 👀 I’m interested in Data science and analytics
 - 🤔 You can read about my journey (https://medium.com/@mychailblaise/how-did-i-get-into-tech-3b851e10757d)
 - 🌱 I’m currently learning data analysis using python
