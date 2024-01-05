@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chukwujekwu
 - 👀 A data Engineer and Analytics professional
 - 🤔 You can read about my journey (https://medium.com/@mychailblaise/how-did-i-get-into-tech-3b851e10757d)
-- 🌱 I’m currently learning data analysis using python
+- 🌱 I build pipelines, automate analysis and solve problems using Python, SQL and Power BI
 - 💞️ I’m looking to collaborate on Python and SQL projects to provide solutions to problems
 - 📫 How to reach me on Twitter [twitter] [https://twitter.com/mychailblaise]
 
