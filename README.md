@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chukwujekwu
-- 👀 A data Engineering and Analytics professional
+- 👀 A lover of all things data
 - 🤔 You can read about my journey (https://medium.com/@mychailblaise/how-did-i-get-into-tech-3b851e10757d)
 - 🌱 I build pipelines, automate analysis, and solve problems using Python, SQL, and Power BI.
 - 💞️ I’m looking to collaborate on Python and SQL projects to provide solutions to problems.
